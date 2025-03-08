@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kvidheeshkumar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2649-count-total-number-of-colored-cells](https://github.com/kvidheeshkumar/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
 |  |
 | ------- |
