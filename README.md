@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/kvidheeshkumar/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kvidheeshkumar/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kvidheeshkumar/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kvidheeshkumar/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kvidheeshkumar/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/kvidheeshkumar/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kvidheeshkumar/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kvidheeshkumar/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kvidheeshkumar/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
 |  |
@@ -110,6 +112,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kvidheeshkumar/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3430-count-days-without-meetings](https://github.com/kvidheeshkumar/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/kvidheeshkumar/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/kvidheeshkumar/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
